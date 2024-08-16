@@ -5,7 +5,7 @@ Its has 3 choices of deployment environments:
 1. hardhat
 2. zkevm
 3. mumbai testnet
-
+ 
 You can deploy to any network you choose by adding the --network flag to you deployment command,
 if you do not it will default to hardhat.
 
